@@ -5,4 +5,5 @@ Stellar
 XRP
 Bitcoin
 ICON
+Etherium
 These are Cryptocurrencies
