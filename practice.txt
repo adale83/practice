@@ -6,4 +6,8 @@ XRP
 Bitcoin
 ICON
 Etherium
-These are Cryptocurrencies
+Nuls
+Cardano
+Dogecoin
+
+These are my Cryptocurrencies of interest
